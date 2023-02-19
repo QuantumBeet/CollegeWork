@@ -1,0 +1,12 @@
+﻿Build started 11/30/2016 12:39:26 PM.
+     1>Project "C:\Users\Dean\Desktop\C++ projects\Project 4\Project 4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Project 4.cpp"
+         Project 4.cpp
+     1>c:\users\dean\desktop\c++ projects\project 4\project 4.cpp(38): error C2276: '!' : illegal operation on bound member function expression
+     1>c:\users\dean\desktop\c++ projects\project 4\project 4.cpp(38): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "C:\Users\Dean\Desktop\C++ projects\Project 4\Project 4.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.46
